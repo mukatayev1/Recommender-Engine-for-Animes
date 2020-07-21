@@ -34,11 +34,13 @@ Second Recommender:
 **Packages**: pandas, numpy, sklearn, matplotlib, seaborn, scipy
 
 # Requirements
-Python 3+
-pandas
-numpy
-scipy
-matplotlib
-seaborn
-scikit-learn
+
+* Python 3+
+* pandas
+* numpy
+* scipy
+* matplotlib
+* seaborn
+* scikit-learn
+
 You will need to have (1) jupyter installed on your local machine, or (2) a gmail account to access Google Colab, which allows you to run jupyter notebooks in the cloud.
