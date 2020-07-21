@@ -2,14 +2,17 @@
 data science project: creating Recommender System from scratch
 
 * Created a recommender engine for animes for two cases:
-  1) User gets recommendations based on what he/she typed i.e. what he/she wants to watch.
-  2) User gets recommendations based on what he/she just watched (like Netflix).
+  1) an item-item recommender using k Nearest Neighbors (kNN) and cosine similarity
+  2) a top N recommender using matrix factorization
   
 * Made a data analysis in order to understand how to use it for creating a recommender system
 
 * Engineered two types of recommender systems: Content based recommender and Collaborative filtering
 
 * Utilized machine learning techniques
+
+# Dataset link
+https://www.kaggle.com/CooperUnion/anime-recommendations-database
 
 # Code
 
@@ -19,10 +22,10 @@ data science project: creating Recommender System from scratch
 
 
 # Result
-
-![](Screen%20Shot%202020-07-22%20at%206.22.06.png)
-
-![](Screen%20Shot%202020-07-22%20at%206.30.36.png)
+First Recommender:
+<img src="Screen%20Shot%202020-07-22%20at%206.22.06.png" width="700">
+Second Recommender:
+<img src="Screen%20Shot%202020-07-22%20at%206.30.36.png" width="700">
 
 # Requirements
 Python 3+
@@ -34,7 +37,5 @@ seaborn
 scikit-learn
 You will need to have (1) jupyter installed on your local machine, or (2) a gmail account to access Google Colab, which allows you to run jupyter notebooks in the cloud.
 
-## Documentation and notebook:
-
+# Documentation and notebook:
 https://github.com/mukatayev1/Recommender-Engine-for-Animes/blob/master/Recommender%20Engine%20for%20Animes.ipynb
-
