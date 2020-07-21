@@ -24,6 +24,16 @@ data science project: creating Recommender System from scratch
 
 ![](Screen%20Shot%202020-07-22%20at%206.30.36.png)
 
+# Requirements
+Python 3+
+pandas
+numpy
+scipy
+matplotlib
+seaborn
+scikit-learn
+You will need to have (1) jupyter installed on your local machine, or (2) a gmail account to access Google Colab, which allows you to run jupyter notebooks in the cloud.
+
 ## Documentation and notebook:
 
 https://github.com/mukatayev1/Recommender-Engine-for-Animes/blob/master/Recommender%20Engine%20for%20Animes.ipynb
