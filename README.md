@@ -17,5 +17,14 @@ data science project: creating Recommender System from scratch
 
 **Packages**: pandas, numpy, sklearn, matplotlib, seaborn, scipy
 
-## The detailed deconstruction of product is in my Jupyter Notebook file.
+
+# Result
+
+![](Screen%20Shot%202020-07-22%20at%206.22.06.png)
+
+![](Screen%20Shot%202020-07-22%20at%206.30.36.png)
+
+## Documentation and notebook:
+
+https://github.com/mukatayev1/Recommender-Engine-for-Animes/blob/master/Recommender%20Engine%20for%20Animes.ipynb
 
