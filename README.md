@@ -11,15 +11,12 @@ data science project: creating Recommender System from scratch
 
 * Utilized machine learning techniques
 
-# Dataset link
+
+## Documentation and notebook:
+https://github.com/mukatayev1/Recommender-Engine-for-Animes/blob/master/Recommender%20Engine%20for%20Animes.ipynb
+
+## Dataset link
 https://www.kaggle.com/CooperUnion/anime-recommendations-database
-
-# Code 
-
-**Python Version**: 3.7
-
-**Packages**: pandas, numpy, sklearn, matplotlib, seaborn, scipy
-
 
 # Result
 First Recommender:
@@ -30,6 +27,12 @@ Second Recommender:
 
 <img src="Screen%20Shot%202020-07-22%20at%206.30.36.png" width="650">
 
+# Code 
+
+**Python Version**: 3.7
+
+**Packages**: pandas, numpy, sklearn, matplotlib, seaborn, scipy
+
 # Requirements
 Python 3+
 pandas
@@ -39,6 +42,3 @@ matplotlib
 seaborn
 scikit-learn
 You will need to have (1) jupyter installed on your local machine, or (2) a gmail account to access Google Colab, which allows you to run jupyter notebooks in the cloud.
-
-# Documentation and notebook:
-https://github.com/mukatayev1/Recommender-Engine-for-Animes/blob/master/Recommender%20Engine%20for%20Animes.ipynb
