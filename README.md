@@ -14,7 +14,7 @@ data science project: creating Recommender System from scratch
 # Dataset link
 https://www.kaggle.com/CooperUnion/anime-recommendations-database
 
-# Code
+# Code 
 
 **Python Version**: 3.7
 
