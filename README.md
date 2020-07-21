@@ -11,13 +11,6 @@ data science project: creating Recommender System from scratch
 
 * Utilized machine learning techniques
 
-
-## Documentation and notebook:
-https://github.com/mukatayev1/Recommender-Engine-for-Animes/blob/master/Recommender%20Engine%20for%20Animes.ipynb
-
-## Dataset link
-https://www.kaggle.com/CooperUnion/anime-recommendations-database
-
 # Result
 First Recommender:
 
@@ -44,3 +37,11 @@ Second Recommender:
 * scikit-learn
 
 You will need to have (1) jupyter installed on your local machine, or (2) a gmail account to access Google Colab, which allows you to run jupyter notebooks in the cloud.
+
+# Links and Resources
+
+### Documentation and notebook:
+https://github.com/mukatayev1/Recommender-Engine-for-Animes/blob/master/Recommender%20Engine%20for%20Animes.ipynb
+
+### Dataset link
+https://www.kaggle.com/CooperUnion/anime-recommendations-database
