@@ -23,9 +23,12 @@ https://www.kaggle.com/CooperUnion/anime-recommendations-database
 
 # Result
 First Recommender:
-<img src="Screen%20Shot%202020-07-22%20at%206.22.06.png" width="700">
+
+<img src="Screen%20Shot%202020-07-22%20at%206.22.06.png" width="650">
+
 Second Recommender:
-<img src="Screen%20Shot%202020-07-22%20at%206.30.36.png" width="700">
+
+<img src="Screen%20Shot%202020-07-22%20at%206.30.36.png" width="650">
 
 # Requirements
 Python 3+
