@@ -7,7 +7,7 @@ data science project: creating Recommender System from scratch
   
 * Made a data analysis in order to understand how to use it for creating a recommender system
 
-* Engineered two types of recommender systems: Content based recommender and Collaborative filtering
+* Engineered two types of recommender systems: Content based recommender and Collaborative filtering recommender
 
 * Utilized machine learning techniques
 
