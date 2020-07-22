@@ -1,5 +1,5 @@
 # Recommender-Engine-for-Animes: Project overview
-data science project: creating Recommender System from scratch
+Data science project: creating Recommender System from scratch
 
 * Created a recommender engine for animes for two cases:
   1) an item-item recommender using k Nearest Neighbors (kNN) and cosine similarity
@@ -10,6 +10,8 @@ data science project: creating Recommender System from scratch
 * Engineered two types of recommender systems: Content based recommender and Collaborative filtering recommender
 
 * Utilized machine learning techniques
+
+* (The detailed description of the project can be found in Documentation and Notebook section)
 
 # Result
 First Recommender:
